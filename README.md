@@ -45,7 +45,3 @@ Segmentation:
 3) The results are written to the folder `output_monodepth` and `output_segmentation`, respectively.
 
 Use the flag `-t` to switch between different models. Possible options are `dpt_hybrid` (default) and `dpt_large`.
-
-### License 
-
-MIT License 
