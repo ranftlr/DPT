@@ -15,7 +15,7 @@ Monodepth:
 Segmentation:
  - [dpt_hybrid-ade20k-53898607.pt](https://drive.google.com/file/d/1zKIAMbltJ3kpGLMh6wjsq65_k5XQ7_9m/view?usp=sharing)
  - [dpt_large-ade20k-b12dca68.pt](https://drive.google.com/file/d/1foDpUM7CdS8Zl6GPdkrJaAOjskb7hHe-/view?usp=sharing)
- - 
+ 
 2) Set up dependencies: 
 
     ```shell
